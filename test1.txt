@@ -1,0 +1,10 @@
+ Volume in drive C is OSDISK
+ Volume Serial Number is 1685-6D9B
+
+ Directory of C:\Users\prkalra\Desktop\MyProject
+
+09/19/2021  05:39 PM    <DIR>          .
+09/19/2021  05:39 PM    <DIR>          ..
+09/19/2021  05:39 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  168,994,705,408 bytes free
